@@ -1,0 +1,31 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.IPhoneRetina.7.1" />
+  <MonoDevelop.Ide.Workbench>
+    <Files>
+      <File FileName="MvxSample.Core/App.cs" Line="1" Column="1" />
+      <File FileName="MvxSample.Core/FirstViewModel.cs" Line="1" Column="1" />
+      <File FileName="MvxSample.Core/ComplexLogic.cs" Line="1" Column="1" />
+      <File FileName="MvxSample.Touch/Views/FirstView.cs" Line="1" Column="1" />
+      <File FileName="MvxSample.Touch/Views/TestViewController.cs" Line="1" Column="1" />
+      <File FileName="MvxSample.Touch/Views/TestViewController.designer.cs" Line="11" Column="2" />
+      <File FileName="MvxSample.Touch/LinkerPleaseInclude.cs" Line="13" Column="47" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True">
+          <Node name="MvxSample.Touch" expanded="True">
+            <Node name="ComponentReferenceFolder" selected="True" />
+            <Node name="Views" expanded="True">
+              <Node name="TestViewController.cs" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.MvxSample.Droid MonoForAntroid.PreferredDevice="3.7&quot; WVGA (Nexus One)" AndroidDeviceId-Debug="emulator-5554" />
+</Properties>

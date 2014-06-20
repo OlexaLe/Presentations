@@ -1,0 +1,25 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.IPhoneRetina.7.1" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="MvxMadness/FirstView.fs">
+    <Files>
+      <File FileName="MvxMadness/AppDelegate.fs" Line="1" Column="1" />
+      <File FileName="MvxMadness/App.fs" Line="1" Column="1" />
+      <File FileName="MvxMadness/Setup.fs" Line="1" Column="1" />
+      <File FileName="MvxMadness/FirstViewModel.fs" Line="27" Column="29" />
+      <File FileName="MvxMadness/FirstView.fs" Line="38" Column="50" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True">
+          <Node name="MvxMadness" expanded="True">
+            <Node name="FirstView.fs" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

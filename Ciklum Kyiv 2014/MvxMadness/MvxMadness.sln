@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{4925A630-B079-445d-BCD4-3A9C94FE9307}") = "MvxMadness", "MvxMadness\MvxMadness.fsproj", "{1A2A4E0E-3229-45A3-8424-612C51E5F8CC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+		Release|iPhone = Release|iPhone
+		Ad-Hoc|iPhone = Ad-Hoc|iPhone
+		AppStore|iPhone = AppStore|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1A2A4E0E-3229-45A3-8424-612C51E5F8CC}.Ad-Hoc|iPhone.ActiveCfg = Ad-Hoc|iPhone
+		{1A2A4E0E-3229-45A3-8424-612C51E5F8CC}.Ad-Hoc|iPhone.Build.0 = Ad-Hoc|iPhone
+		{1A2A4E0E-3229-45A3-8424-612C51E5F8CC}.AppStore|iPhone.ActiveCfg = AppStore|iPhone
+		{1A2A4E0E-3229-45A3-8424-612C51E5F8CC}.AppStore|iPhone.Build.0 = AppStore|iPhone
+		{1A2A4E0E-3229-45A3-8424-612C51E5F8CC}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{1A2A4E0E-3229-45A3-8424-612C51E5F8CC}.Debug|iPhone.Build.0 = Debug|iPhone
+		{1A2A4E0E-3229-45A3-8424-612C51E5F8CC}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{1A2A4E0E-3229-45A3-8424-612C51E5F8CC}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{1A2A4E0E-3229-45A3-8424-612C51E5F8CC}.Release|iPhone.ActiveCfg = Release|iPhone
+		{1A2A4E0E-3229-45A3-8424-612C51E5F8CC}.Release|iPhone.Build.0 = Release|iPhone
+		{1A2A4E0E-3229-45A3-8424-612C51E5F8CC}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{1A2A4E0E-3229-45A3-8424-612C51E5F8CC}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = MvxMadness\MvxMadness.fsproj
+	EndGlobalSection
+EndGlobal
